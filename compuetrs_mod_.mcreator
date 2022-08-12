@@ -1,0 +1,236 @@
+{
+  "mod_elements": [
+    {
+      "name": "Computer",
+      "type": "painting",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "computer"
+    },
+    {
+      "name": "BlacksmithLootChest",
+      "type": "loottable",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blacksmith_loot_chest"
+    },
+    {
+      "name": "SnowDiamond",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "snow_diamond"
+    },
+    {
+      "name": "SnowDiamondBlock",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "snow_diamond_block"
+    },
+    {
+      "name": "SnowDiamondOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "snow_diamond_ore_block_recipe"
+    },
+    {
+      "name": "SnowDiamondBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "snow_diamond_block_ore_recipe"
+    },
+    {
+      "name": "SnowDiamondOreSmelting",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "snow_diamond_ore_smelting"
+    },
+    {
+      "name": "SnowDiamondPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "snow_diamond_pickaxe_recipe"
+    },
+    {
+      "name": "SnowDiamondAxeRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "snow_diamond_axe_recipe"
+    },
+    {
+      "name": "SnowDiamondSwordRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "snow_diamond_sword_recipe"
+    },
+    {
+      "name": "SnowDiamondShovelRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "snow_diamond_shovel_recipe"
+    },
+    {
+      "name": "SnowDiamondHoeRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "snow_diamond_hoe_recipe"
+    },
+    {
+      "name": "SnowDiamondArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "snow_diamond_armor_helmet_recipe"
+    },
+    {
+      "name": "SnowDiamondArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "snow_diamond_armor_body_recipe"
+    },
+    {
+      "name": "SnowDiamondArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "snow_diamond_armor_leggings_recipe"
+    },
+    {
+      "name": "SnowDiamondArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "snow_diamond_armor_boots_recipe"
+    },
+    {
+      "name": "Converter",
+      "type": "gui",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "converter"
+    },
+    {
+      "name": "SnowBlocky",
+      "type": "fluid",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "snow_blocky",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "SnowBlockyTrade",
+      "type": "villagertrade",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "snow_blocky_trade"
+    },
+    {
+      "name": "PC",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pc"
+    },
+    {
+      "name": "Table",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "table"
+    },
+    {
+      "name": "Alltable",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alltable"
+    },
+    {
+      "name": "FullTable",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "full_table"
+    },
+    {
+      "name": "Monitior",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "monitior"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.compuetrs_mod_.pc": "PC",
+      "block.compuetrs_mod_.alltable": "Alltable",
+      "block.compuetrs_mod_.monitior": "Monitior",
+      "block.compuetrs_mod_.snow_blocky": "Snow Blocky",
+      "item.compuetrs_mod_.snow_blocky_bucket": "Snow Blocky Bucket",
+      "fluid.compuetrs_mod_.snow_blocky": "Snow Blocky",
+      "block.compuetrs_mod_.snow_diamond_block": "Block of SnowDiamond",
+      "item.compuetrs_mod_.snow_diamond": "SnowDiamond",
+      "block.compuetrs_mod_.table": "Table"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "compuetrs_mod_",
+    "modName": "Compuetrs Mod 1.0.6",
+    "version": "1.0.0",
+    "author": "declan.murphy0002, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "net.mcreator.compuetrsmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}

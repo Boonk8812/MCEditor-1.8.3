@@ -1,0 +1,7 @@
+source:GitHub.exe
+code: layout: 10x10x10: controls:>>>( button1:name: Create_Server:control_
+if_button:Create_Server:_ :will bring: screen: Make_ Server: text: Server Name:(________________):
+Server_Website:(_________________):
+Server_Type:(_______________________:(
+Server_File:(____________________________:(
+Text: Note that only supported filetype is '.jar or .mcworld or .mcmod or .mcreator !
